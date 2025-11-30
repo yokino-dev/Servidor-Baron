@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Discord-Servidor%20Ativo-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/Comunidade-Resenha%20e%20Diversão-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Games-CS2%20%7C%20Valorant%20%7C%20Variedades-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Games-TUDO%20%7C%20E%20%7C%20Variedades-blue?style=for-the-badge">
 </div>
 
 <div align="center">
