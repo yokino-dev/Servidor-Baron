@@ -14,5 +14,8 @@
   ],
   "license": "GPL-3.0-only",
   "private": "true",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
