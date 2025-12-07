@@ -1,0 +1,18 @@
+{
+  "name": "baron-landing",
+  "version": "1.0.0",
+  "description": "landing page para o servidor da Baron Gaming!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "authors": [
+    "neo-dev",
+    "yokino-dev"
+  ],
+  "license": "GPL-3.0-only",
+  "private": "true",
+  "type": "commonjs"
+}
